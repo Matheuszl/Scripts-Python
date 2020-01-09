@@ -2,6 +2,9 @@ import wikipedia
 from tkinter import *
 from tkinter.messagebox import showinfo
 
+# A busca funciona na linguagem inglesa e o resultado tambem
+# Busque por palavras ou frases
+
 
 win = Tk() ## criaçao da tela
 win.title("Buscar") ## titulo da janela
