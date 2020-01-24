@@ -1,4 +1,7 @@
 import pytube
+'''
+Importar pytube usando: pip install pytube
+'''
 
 cipher = "https://www.youtube.com/watch?v=Nt01A2fmA0c"
 
